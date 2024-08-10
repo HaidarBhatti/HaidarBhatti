@@ -4,6 +4,9 @@ I am Haidar Irfan. I am an Experienced iOS Developer. Skilled in Swift UIKit, Sw
 here is the link for my first personal app on app store.
 https://apps.apple.com/pk/app/quote-share/id6471227650
 
+## Stack
+Swift UIKit, SwiftUI, Flutter
+
 <!--
 **HaidarBhatti/HaidarBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
