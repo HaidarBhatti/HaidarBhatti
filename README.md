@@ -20,12 +20,13 @@ I've spent 6+ years shipping apps used in Saudi Arabia, the UK, the US and beyon
 
 **iOS:** Swift · UIKit · SwiftUI · Combine · Core Data · Auto Layout · Xcode  
 **Cross-platform:** Flutter · Dart · Riverpod  
-**Backend & services:** Firebase (Auth, Firestore, Cloud Functions) · REST APIs · Push notifications  
+**Backend & services:** Firebase (Auth, Firestore, Cloud Functions) · Supabase · REST APIs · Push notifications  
 **Web:** React · Firebase Hosting  
-**Tools:** Git · CI/CD · App Store Connect · TestFlight
+**Tools:** Git · CI/CD · App Store Connect · TestFlight  
+**AI-assisted development:** Claude Code · ChatGPT
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,firebase,react,git,xcode&theme=dark" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,firebase,supabase,react,git,xcode&theme=dark" alt="Tech stack icons">
 </p>
 
 ---
